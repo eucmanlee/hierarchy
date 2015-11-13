@@ -1,0 +1,34 @@
+2015.11.08
+
+Base learning simulation of real world hierarchy
+The result would show the transitent performance of organizational learnig.
+
+2015.11.11
+
+The result shows that new code generates consistent results. 
+But an issue of 'S' parameter is found in this large real work hierarchy.
+The final steady state performance always reaches to 100 (i.e. max performance) regardless of the experiment parameters. 
+So, I have added two additional scenarios where the Ss are doubled (from 4 to 8).
+I expect that this will make premature saturation of knowledge therefore, lowers the steady state performance. 
+
+2015.11.12
+
+I may need to think about a right wording about the cause that the system
+stops learning before it reaches to the perfect knowledge state. 
+
+The important result out of these experimentation is that 
+the relative impact of top down intervention increases with the non-linear parameter S.
+When the value of S = 1, it is likely that the performances of organizations with and without
+top down intervention is marginal relatively to their final period performance. 
+
+However, as the value of S increases to 4 and 8, the performance difference increases in both relative and 
+absolute terms. 
+
+This shows that managerial intervention become more valueable and important when the 
+given problem - or the level of envirionmental complexity increases. 
+
+As mentioned in the manuscript this may be attributed to the role of managemnet who 
+resolves an issue of learning myopia where individuals in large organizations tend to 
+fail to see the big picture. The top down intervention, even though those managers
+has no knowledge endowment, would facilitate the flow of knowledge which cannot be done
+perfectly through bottom up learning process. 
