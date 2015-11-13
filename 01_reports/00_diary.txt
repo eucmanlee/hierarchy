@@ -1,0 +1,57 @@
+
+Start Date: 2015.08.13
+Author: Eucman Lee
+Title: reverse percolation test
+
+----------------
+Date: 2015.08.13
+----------------
+
+This project will use the test scenarios in 
+Albert, Réka, Hawoong Jeong, and Albert-László Barabási. "Error and attack tolerance of complex networks." nature 406.6794 (2000): 378-382.
+
+on the hierarchical network data. The regular node or link removal process expected to highlight the value and role of vertical bridges in the multi-level structure.
+Also, I believe that it is equally interesting to demonstrate that hierarchical network is robust the exogeneous shocks.
+
+The test will start by replicating the prior works. The difference among random, scale-free and hierarchical network will be discussed.
+
+----------------
+Date: 2015.11.11
+----------------
+
+Real network scenarios are tested and results are confirmed. 
+It took more than 10 hrs to carry out one hundred trials. 
+
+The impact of top down intervention has been replicated in the real network as well.
+But more exhaustive search with additional setting on the complexity factor
+S needs to be tested.
+
+
+----------------
+Date: 2015.11.12
+----------------
+
+Ran another round of hierarchical with real world reporting structure. 
+Still, the issue is the performance of this simulation which mostly takes longer than
+10 hrs min. Perhaps, I need to find a way to reduce overall read time.
+
+Secondly, It is found that there are missing hierarchy simulation code written in 'R'
+It is about the relationship between the size and the average path length.
+I may need to check the gdrive. 
+
+Back up of programing code:
+Git appears to be highly sophisticated and rigorous. But, it may take some time
+to get use to it. 
+
+Issue about an tansient performance:
+- previously, it has been found a regular patterns of organizational learing performance across different levels within a hierarchy.
+However, once I alter the non-linear factor of S, i.e. S = 1, it appears that the strong correlation between levels and transitent performance is on average is weaken. 
+
+----------------
+Date: 2015.11.13
+----------------
+
+'Scaling law' of hierarchic network should be revised or reviewed.
+- The prior test document (result) is missing. Shit...managing documents...painful.
+- The original 'R' code would be located somewhere in the google drive. - check it out.
+
